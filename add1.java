@@ -3,6 +3,7 @@ public class add1 {
         int a = 55;
         int b = 15;
         int c = 77;
-        System.out.println(a+b+c);
+        int d = 15;
+        System.out.println(a+b+c+d);
     }
 }
