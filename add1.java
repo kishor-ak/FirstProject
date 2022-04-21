@@ -6,6 +6,6 @@ public class add1 {
 
 
         int d = 15;
-        System.out.println(a+b+c+d);
+        System.out.println(a*b*c*d);
     }
 }
